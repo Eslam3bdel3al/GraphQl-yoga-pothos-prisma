@@ -1,0 +1,1 @@
+the database is deleted ... create new one and connect it then migrate seed data
